@@ -10,10 +10,12 @@ In Anima Beta Version 2.0 there were a few features added:
 - In options you can change the language of the game to English or Spanish
 - Score counter was added to the first level.
 - Music was also added to the 1st level along with sound clips.
+About this version:
+This version works well in the editor of Unity. However when it gets build, there are some bugs where the scenes don't load correctly. We will try to fix this in the future.
 
 Instructions to import the game:
 
-1. Open Unity
+1. Open Unity (must be updated to latest version)
 2. Create a new project (Use whatever name you desire)
 3. Download the package called 'AnimaBetaV2.0' from Github
 4. Go to Assets->Import Package->Custom Package...
